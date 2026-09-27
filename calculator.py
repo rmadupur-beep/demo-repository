@@ -18,5 +18,5 @@ def power(a, b):
     return a ** b
 	
 # New feature: Power function
-def power1(a, b):
+def power111(a, b):
     return a ** b
