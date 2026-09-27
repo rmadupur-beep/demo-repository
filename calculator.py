@@ -16,3 +16,7 @@ def divide(a, b):
 # New feature: Power function
 def power(a, b):
     return a ** b
+
+# New feature: Power function
+def powernew(a, b):
+    return a ** b
